@@ -9,7 +9,6 @@ This script requires these python modules to be installed : `numpy, matplotlib, 
 ``` bash
 $ pip install numpy
 $ pip install colorama
-$ pip install numpy
 $ pip install matplotlib
 $ pip instal opencv-python
 ```
