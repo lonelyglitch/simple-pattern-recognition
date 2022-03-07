@@ -10,7 +10,7 @@ This script requires these python modules to be installed : `numpy, matplotlib, 
 $ pip install numpy
 $ pip install colorama
 $ pip install matplotlib
-$ pip instal opencv-python
+$ pip install opencv-python
 ```
 
 ## ⚠️ Limitations
