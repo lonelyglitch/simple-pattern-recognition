@@ -17,7 +17,7 @@ $ pip install opencv-python
 
 🟥 Keep in mind that even so this script can be used for any type of image, there is no guarantee that it'll work for nosiy or obscure photos. Best results are yield when **pattern is a cropped down section of the main image.** Preferably the resolution of pattern file should match the exact pixels of the repeating pattern in the image file you'll be searching for patterns in.
 
-🟥 As of now due to my lack of knowledge on how python paths work in that OS, **this script will not work in Linux it as is.**
+🟥 As of now due to my lack of knowledge on how python paths work in that OS, **this script will not work in Linux as is.**
 
 🟥 **This program only works with ***PNG*** Images**. This behavior was intentional as JPG photos lack the quality to be proccessed.
 
